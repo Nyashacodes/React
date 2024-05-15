@@ -1,0 +1,74 @@
+
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "'Thank you Ajit Agarkar': KL Rahul brutally roasted for his 33-ball 29 as Sunrisers Hyderabad floor Luckn - The Times of India",
+            "description": "Cricket News: Recently, KL Rahul was denied a ticket to upcoming T20 World Cup in the Americas as Ajit Agarkar-led selection committee ignored him in the 15-man squ",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/thank-you-ajit-agarkar-kl-rahul-brutally-roasted-for-his-33-ball-29-as-sunrisers-hyderabad-floor-lucknow-super-giants/articleshow/109957635.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-109957648,width-1070,height-580,imgsize-47512,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-05-08T17:09:00Z",
+            "content": null
+          },
+        {
+            "source": {
+              "id": null,
+              "name": "Fox Business"
+            },
+            "author": "Daniella Genovese",
+            "title": "Sriracha shortage coming? Company pauses production until after Labor Day - Fox Business",
+            "description": "Huy Fong Foods, a leading sriracha producer out of California, warned in a letter this week to wholesalers that a shortage is coming due to an issue with its jalapeño chili peppers.",
+            "url": "https://www.foxbusiness.com/lifestyle/sriracha-shortage-company-pauses-production-until-after-labor-day",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/GettyImages-1402158404-Huy-Fong-Foods-sriracha-bottles-on-table.jpg?ve=1&tl=1",
+            "publishedAt": "2024-05-09T18:11:00Z",
+            "content": "Fans of sriracha sauce may find themselves scrambling — again — to get a hold of the spicy condiment.\r\nHuy Fong Foods, a leading sriracha maker in California, is warning that a shortage is on the hor… [+1835 chars]"
+          },
+          
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ZEKE MILLER, AAMER MADHANI",
+      "title": "Biden says US won't supply weapons for Israel to attack Rafah, in warning to ally - The Associated Press",
+      "description": "President Joe Biden says he won't supply offensive weapons Israel can use to launch an all-out assault on Rafah — the last major Hamas stronghold in Gaza — over concern for the well-being of the more than 1 million civilians sheltering there. Biden acknowledg…",
+      "url": "https://apnews.com/article/israel-weapons-shipment-us-eed365ebef0477ba74bf9848cacae4f4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/bd29046/2147483647/strip/true/crop/4755x2675+0+248/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2F0c%2Fb293211085b18d4e5fcdda223567%2F3fad33c20b6a4aad91dbfcd90b889227",
+      "publishedAt": "2024-05-09T16:56:00Z",
+      "content": "WASHINGTON (AP) President Joe Biden said that he would not supply offensive weapons that Israel could use to launch an all-out assault on Rafah the last major Hamas stronghold in Gaza over concern fo… [+9207 chars]"
+    },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }

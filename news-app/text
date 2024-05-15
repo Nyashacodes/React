@@ -1,0 +1,66 @@
+// // Newsapi@123
+// //apikey:: 742ff82ad70242bdae7ff50f046edfd6
+// // 20240510022233
+// // https://newsapi.org/v2/top-headlines?apiKey=742ff82ad70242bdae7ff50f046edfd6&q=cricket
+// <Route path="/business><News pageSize = {5} country="in" category="sports"/></Route>
+// <Route path="/entertainment"><News pageSize = {5} country="in" category="sports"/></Route>
+// <Route path="/general"><News pageSize = {5} country="in" category="sports"/></Route>
+// <Route path="/health"><News pageSize = {5} country="in" category="sports"/></Route>
+// <Route path="/science"><News pageSize = {5} country="in" category="sports"/></Route>
+// <Route path="/sports"><News pageSize = {5} country="in" category="sports"/></Route>
+// <Route path="/technology"><News pageSize = {5} country="in" category="sports"/></Route>
+
+
+// <Route path="/"><News pageSize = {5} country="in" category="sports"/></Route>
+
+
+// import './App.css';
+// import NavBar from './components/NavBar.js';
+
+// import React, { Component } from 'react'
+// import News from './components/News.js';
+// import {
+//   BrowserRouter as Router,
+//   Switch,
+//   Route
+// } from "react-router-dom";
+
+// export default class App extends Component {
+//   // c="this is variable"
+//   render() {
+//     return (
+//       <div>
+//         <Router>
+//           <NavBar/>       
+//           <Switch>
+//           <Route path="/"><News pageSize = {5} country="in" category="sports"/></Route>
+//           <Route path="/business"><News pageSize = {5} country="in" category="business"/></Route>
+//           <Route path="/entertainment"><News pageSize = {5} country="in" category="entertainment"/></Route>
+//           <Route path="/general"><News pageSize = {5} country="in" category="general"/></Route>
+//           <Route path="/health"><News pageSize = {5} country="in" category="health"/></Route>
+//           <Route path="/science"><News pageSize = {5} country="in" category="science"/></Route>
+//           <Route path="/sports"><News pageSize = {5} country="in" category="sports"/></Route>
+//           <Route path="/technology"><News pageSize = {5} country="in" category="technology"/></Route>          
+//           </Switch>
+//         </Router>
+        
+       
+//           <Routes>
+//             <Route path="/" element={<News pageSize={5} country="in" category="sports" />} />
+//             <Route path="/business" element={<News pageSize={5} country="in" category="business" />} />
+//             <Route path="/entertainment" element={<News pageSize={5} country="in" category="entertainment" />} />
+//             <Route path="/general" element={<News pageSize={5} country="in" category="general" />} />
+//             <Route path="/health" element={<News pageSize={5} country="in" category="health" />} />
+//             <Route path="/science" element={<News pageSize={5} country="in" category="science" />} />
+//             <Route path="/sports" element={<News pageSize={5} country="in" category="sports" />} />
+//             <Route path="/technology" element={<News pageSize={5} country="in" category="technology" />} />
+//           </Routes>
+        
+
+
+//       </div>
+//     )
+//   }
+// }
+
+
