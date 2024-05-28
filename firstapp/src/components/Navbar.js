@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import About from './About';
+// import About from './About';
 import { Link } from 'react-router-dom';
 
 
