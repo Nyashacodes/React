@@ -6,7 +6,7 @@ const app = express()
 const port = 5000
 
 //middleware
-app.use(express.json())
+app.use(express.json()) 
 
 //Available routes 
 app.use('/api/auth',require('./routes/auth'))
